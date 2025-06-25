@@ -1,0 +1,603 @@
+[
+  {
+    "question":"A propos du dépassement de l'enveloppe de conception définie par le constructeur, quelle proposition est correcte/incorrecte?<br>1. Un dépassement de l'enveloppe de conception définie par le constructeur pendant une durée inférieure à 2 secondes reste à l'intérieur de la marge de sécurité additionnelle et ne provoque aucun dommage permanent à l'aéronef.<br>2. Tout dépassement de l'enveloppe de conception définie par le constructeur doit être noté dans le livret de suivi technique, même si l'équipage ne détecte aucun dommage permanent.",
+    "options":[
+      "Réponse A<br>1 et 2 sont incorrectes",
+      "Réponse B<br>1 est incorrecte, 2 est correcte",
+      "Réponse C<br>1 et 2 sont correctes",
+      "Réponse D<br>1 est correcte, 2 est incorrecte"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"La fonction des compas mobiles est d'assurer:",
+    "options":[
+      "Réponse A<br>que la partie mobile du plateau cyclique reste au contact de la partie fixe du plateau cyclique",
+      "Réponse B<br>que la partie mobile du plateau cyclique a la même vitesse de rotation que le rotor principal",
+      "Réponse C<br>que le rotor principal est entraîné par la boîte de transmission principale",
+      "Réponse D<br>que la partie fixe du plateau cyclique a la même vitesse de rotation que le rotor principal"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Pour corriger le 'track' et balourd du rotor principal...",
+    "options":[
+      "Réponse A<br>des petites masses peuvent être ajoutées sur la partie tournante du plateau cyclique.",
+      "Réponse B<br>la corde des pales du rotor peut être ajustée.",
+      "Réponse C<br>l'envergure des pales du rotor peut être ajustée.",
+      "Réponse D<br>la longueur des biellettes de pas peut être ajustée."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Considérons un rotor principal totalement articulé dont les pales sont retenues par des articulations et/ou des roulements. Quels sont les mouvements permis par ses articulations?",
+    "options":[
+      "Réponse A<br>Traînée, battement et variation de pas.",
+      "Réponse B<br>Trainee et battement seulement.",
+      "Réponse C<br>Battement et variation de pas seulement.",
+      "Réponse D<br>Variation de pas seulement."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Dans une turbine à gaz, les ailettes rotor d'un compresseur axial sont souvent montées sur un disque ou un tambour en utilisant une 'fixation souple' pour…",
+    "options":[
+      "Réponse A<br>limiter les dommages causés par des corps étrangers.",
+      "Réponse B<br>permettre une aisance de montage et de démontage.",
+      "Réponse C<br>limiter les dommages des ailettes dus aux vibrations.",
+      "Réponse D<br>limiter les dommages dus au fluage."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Le réchauffage carburateur n'est en général pas utilisé avec la puissance de décollage ou de montée à cause...",
+    "options":[
+      "Réponse A<br>de l'augmentation de la traînée.",
+      "Réponse B<br>de la baisse de puissance et de détonation possible.",
+      "Réponse C<br>de l'impossibilité pour le moteur de fournir assez de chaleur.",
+      "Réponse D<br>du risque de feu induit."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Le blindage séparé des fils électriques regroupés au sein d'un faisceau de câbles (harnais électrique) vise à...",
+    "options":[
+      "Réponse A<br>étiqueter les fils électriques au sein du harnais pour faciliter la maintenance.",
+      "Réponse B<br>renforcer physiquement les fils afin d'empêcher leur rupture en cas de vibrations en vol.",
+      "Réponse C<br>éliminer l’induction électromagnétique provoquée par les autres fils électriques du harnais.",
+      "Réponse D<br>garantir l'isolation entre les fils électriques au sein du harnais."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Quelle est la proposition correcte?<br>1- Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2- Le point éclair du JET A est une température supérieure à celui du JET B.",
+    "options":[
+      "Réponse A<br>1 est vrai, 2 est faux.",
+      "Réponse B<br>1 est faux, 2 est vrai.",
+      "Réponse C<br>1 est vrai, 2 est vrai.",
+      "Réponse D<br>1 est faux,2 est faux."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Un hélicoptère multimoteur possède (1)___ qui tourne(nt) librement pendant (2)___",
+    "options":[
+      "Réponse A<br>(1) une roue libre par le moteur<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation.",
+      "Réponse B<br>(1) une roue libre<br>(2) l’autorotation.",
+      "Réponse C<br>(1) deux roues libres par moteur<br>(2) l'autorotation.",
+      "Réponse D<br>(1) une roue libre sur l'arbre d'entraînement du rotor principal<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Lorsqu'une barre bus subit un court-circuit, elle est...",
+    "options":[
+      "Réponse A<br>isolée mais les servitudes sont transférées à une autre bus.",
+      "Réponse B<br>isolée et les servitudes ne sont plus alimentées.",
+      "Réponse C<br>automatiquement transférée à une autre bus.",
+      "Réponse D<br>manuellement transférée à une autre génératrice."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Dans un moteur pistons, les bielles et le vilebrequin convertissent le mouvement (1)___ (2)___ en un mouvement (3)___.",
+    "options":[
+      "Réponse A<br>(1) rotatif<br>(2) de l’arbre à cames<br>(3) linéaire",
+      "Réponse B<br>(1) linéaire<br>(2) des pistons<br>(3) rotatif",
+      "Réponse C<br>(1)linéaire<br>(2) de l’arbre à cames<br>(3) rotatif",
+      "Réponse D<br>(1)rotatif<br>(2) des pistons<br>(3) linéaire"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Un clapet-navette hydraulique...",
+    "options":[
+      "Réponse A<br>permet à deux systèmes d'être alimentés par une seule source de pression.",
+      "Réponse B<br>est une vanne d’anti-retour.",
+      "Réponse C<br>permet à une source secondaire d'alimenter un équipement.",
+      "Réponse D<br>régule la pression délivrée par une pompe hydraulique."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"La commande pour décharger un agent extincteur incendie sur un moteur est activée...",
+    "options":[
+      "Réponse A<br>manuellement par l’équipage de conduite.",
+      "Réponse B<br>automatiquement lorsqu'un feu est détecté.",
+      "Réponse C<br>automatiquement lorsqu'une surchauffe est détectée.",
+      "Réponse D<br>manuellement en cas d'indication de température d'huile élevée."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Une liaison 'k' (delta three effect) équipe certains rotors de queue pour:",
+    "options":[
+      "Réponse A<br>permettre une variation pilotée du pas sans la nécessité de l'installation d'un plateau cyclique.",
+      "Réponse B<br>permettre au rotor de queue de se mouvoir en battement et en traînée.",
+      "Réponse C<br>assurer le pilotage pendant l'autorotation.",
+      "Réponse D<br>changer automatiquement l’angle de pas lorsque l'angle de battement de la pale de rotor arrière change."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"La fonction des compas fixes est:",
+    "options":[
+      "Réponse A<br>de s'opposer à la rotation du plateau cyclique inférieur.",
+      "Réponse B<br>d'agir en tant que mâchoire inférieure dans le dispositif de cisaille du treuil.",
+      "Réponse C<br>d'entraîner le rotor principal au moyen de la boîte de transmission.",
+      "Réponse D<br>de s'opposer à la rotation du plateau cyclique supérieur."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Pour une suppression de vibration active...",
+    "options":[
+      "Réponse A<br>des vérins oscillants agissant sur les fixations de la boîte de transmission principale annulent les vibrations transmises à la cellule de l'hélicoptère.",
+      "Réponse B<br>des masses lourdes sur le moyeu oscillent de manière à réduire les vibrations provenant des pales.",
+      "Réponse C<br>des vérins à haute vitesse sollicitent les pales précisément en opposition de phase de leur vibration normale.",
+      "Réponse D<br>des amortisseurs pendulaires proche du pied des pales annulent le mouvement de battement des pales qui apparaissent à celle d'une fréquence supérieure à une par révolution."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Une turbine libre est une turbine qui (1)___ connectée au compresseur pour permettre (2) ___ de tourner à sa vitesse de rotation optimale.",
+    "options":[
+      "Réponse A<br>(1) est<br>(2) au compresseur",
+      "Réponse B<br>(1) n'est pas<br>(2) à la turbine",
+      "Réponse C<br>(1) n'est pas<br>(2) au compresseur",
+      "Réponse D<br>(1) est<br>2) à la turbine"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Sur les avions équipés de générateurs (1)___ comme source principale d'énergie électrique, des transformateurs redresseurs (TR) sont utilisés pour obtenir la génération électrique (2)___.",
+    "options":[
+      "Réponse A<br>(1) 28 V DC<br>(2) 28 V AC",
+      "Réponse B<br>(1) 115 V DC<br>(2) 28 V AC",
+      "Réponse C<br>(1) 28 V AC<br>(2) 28 V DC",
+      "Réponse D<br>(1) 115 V AC(2) 28 V DC"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"À propos du principe de fonctionnement d'une turbine axiale à réaction, les propositions suivantes sont-elles vraies ou fausses ?<br>1- Les aubes et les ailettes d’une turbine à réaction provoquent la rotation du rotor turbine par l'action aérodynamique de l'écoulement d'air qui est redressé pour circuler autour des ailettes selon un angle particulier.<br>2- Au sein d’un étage de turbine axiale à réaction, les aubes du stator et les ailettes du rotor se comportent toutes les deux comme un profil aérodynamique.",
+    "options":[
+      "Réponse A<br>1 et 2 sont fausses.",
+      "Réponse B<br>1 est fausse, 2 est vraie.",
+      "Réponse C<br>1 et 2 sont vraies.",
+      "Réponse D<br>1 est vraie, 2 est fausse."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"A propos de la conception des pales de rotor principal, quelle est l'affirmation correcte?",
+    "options":[
+      "Réponse A<br>L'utilisation de fibre de carbone augmente la rigidité des pales et réduit les vibrations.",
+      "Réponse B<br>Les pales de rotor en aluminium sont légères, sont très rigides et ont une grande résistance à la fatigue.",
+      "Réponse C<br>Les dommages sur les pales en composite sont facilement réparables, en découpant la partie abîmée pour la remplacer par une nouvelle section.",
+      "Réponse D<br>Les pales en bois sont faciles à fabriquer sont légères et ont une forte rigidité, un désavantage étant la sensibilité à l'humidité."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Certains avions et hélicoptères légers sont équipés d'un dispositif à gaz (“blow down”) pour la sortie du train d'atterrissage en secours, en cas de panne d'alimentation hydraulique du train.<br>Quel est le gaz utilisé par ce dispositif et comment est-il transmis au système de commande du train?",
+    "options":[
+      "Réponse A<br>De l'azote ou de l’air comprimé, qui est envoyé à travers un clapet-navette commandé manuellement.",
+      "Réponse B<br>D'hélium ou du dioxyde de carbone, qui est envoyé à travers un clapet-navette commandé manuellement.",
+      "Réponse C<br>De l'azote ou de l'air comprimé, qui est envoyé à des vérins de commande montés en parallèle sur le train.",
+      "Réponse D<br>De l'hélium ou de l'azote, qui est envoyé à des vérins de commande montés en parallèle sur le train."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Pour une transmission d'hélicoptère, quels composants sont généralement utilisés pour surveiller la santé d'une boîte intermédiaire?<br>1. Un témoin de colmatage de filtre à huile<br>2. Un détecteur de particules (mécanique/ électrique)<br>3. Un indicateur de pression d'huile<br>4. Un indicateur visuel de niveau d'huile",
+    "options":[
+      "Réponse A<br>1, 2, et 4.",
+      "Réponse B<br>2 et 4 seulement.",
+      "Réponse C<br>2, 3, et 4.",
+      "Réponse D<br>1 et 3 seulement."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Un échangeur air-air (intercooler) est quelquefois monté entre le compresseur et le conduit d'admission afin...",
+    "options":[
+      "Réponse A<br>de réduire le pré-allumage.",
+      "Réponse B<br>d'augmenter la température de combustion.",
+      "Réponse C<br>de minimiser le risque de détonation.",
+      "Réponse D<br>de reduire le debit d'air traversant le moteur."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Un clapet de décharge (“waste gate”) est utilisé pour contrôler la puissance d'un turbocompresseur, en faisant varier la quantité de gaz d’échappement circulant dans (1)___ du turbocompresseur. Un clapet complètement (2)___ assurera une vitesse de rotation maximale du turbocompresseur.",
+    "options":[
+      "Réponse A<br>(1) le compresseur<br>(2) fermé",
+      "Réponse B<br>(1) la turbine<br>(2) fermé",
+      "Réponse C<br>(1) le compresseur<br>(2) ouvert",
+      "Réponse D<br>(1) la turbine<br>(2) ouvert"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Concernant le givrage du système d'admission d'un moteur à piston...",
+    "options":[
+      "Réponse A<br>le givrage du système d'admission affecte seulement les moteurs équipés de carburateurs.",
+      "Réponse B<br>du carburant congelé est normalement formé dans le systèmes d'admission des moteurs injection.",
+      "Réponse C<br>les accrétions de glace affectent les systèmes à injection ainsi que les moteurs équipés de carburateurs.",
+      "Réponse D<br>de la glace sur le papillon des gaz est généralement formée dans le système d'admission des moteurs à injection."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Sur un avion à moteur à pistons, parmi les servitudes suivantes, lesquelles sont susceptibles d'utiliser l'air du système pneumatique?<br>1. Chauffage cabine.<br>2. Génération électrique.<br>3. Pompes hydrauliques.<br>4. Système de dégivrage.<br>5. Instruments gyroscopiques.<br>6. Instruments pitot-statique.",
+    "options":[
+      "Réponse A<br>4, 5 et 6.",
+      "Réponse B<br>1, 3, 4 et 6.",
+      "Réponse C<br>1, 4 et 5.",
+      "Réponse D<br>2, 3, 5 et 6."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Sur un avion à réaction un pillole observe des indications moteur anormales, avec des fluctuations des indications RPM et ITT (température turbine inter-étages), et des détonations.<br>La cause probable est...",
+    "options":[
+      "Réponse A<br>un pompage compresseur.",
+      "Réponse B<br>un feu moteur.",
+      "Réponse C<br>une survitesse turbine.",
+      "Réponse D<br>une panne du boitier de régulation moteur."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Pour un aéronef équipé d'un train d'atterrissage avec une sécurité anti-rétraction sur la manette de train, l'affirmation exacte est...",
+    "options":[
+      "Réponse A<br>Ce système bloque la rétraction à IAS trop faible.",
+      "Réponse B<br>Ce système ne peut jamais être surpassé car un train avant mal aligné peut endommager la structure de la baie de train.",
+      "Réponse C<br>Ce système peut être surpassé sous certaines conditions.",
+      "Réponse D<br>Ce système bloque la rétraction IAS trop élevée."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Les équipages doivent être informés lorsque des quantités importantes de batteries au lithium sont chargées dans les soutes cargo. Ceci est lié au fait que ces batteries...",
+    "options":[
+      "Réponse A<br>explosent lorsque l'altitude cabine est trop élevée, compte tenu de la pression différentielle.",
+      "Réponse B<br>peuvent potentiellement produire de la chaleur, ce qui necessite la presence des pompiers lors des opérations de chargement et déchargement.",
+      "Réponse C<br>gèlent aux basses températures ambiantes, ce qui provoque des fissures dans leur boitier de protection métallique.",
+      "Réponse D<br>peuvent potentiellement subir une réaction en chaîne dès lors qu'une cellule est endommagée."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Une des raisons de l'immersion dans le carburant des pompes de gavage du circuit carburant est:",
+    "options":[
+      "Réponse A<br>le refroidissement des pompes.",
+      "Réponse B<br>l’augmentation de la précision du jaugeage du carburant.",
+      "Réponse C<br>l’amélioration de leur efficacité.",
+      "Réponse D<br>le raccourcissement de la longueur des tuyaux pour réduire les pertes de charge."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Quelles sont au cockpit les indications possibles d'un feu moteur?",
+    "options":[
+      "Réponse A<br>Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en rouge de la manette coupe-feu moteur.",
+      "Réponse B<br>Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en ambre de la manette coupe-feu moteur.",
+      "Réponse C<br>Un signal sonore de type 'bip', un message d’alarme ambre, l'allumage en rouge de la manette coupe-feu moteur.",
+      "Réponse D<br>Un signal sonore de type 'bip', un message d'alarme ambre, l'allumage en ambre de la manette coupe-feu moteur."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Dans un moteur à turbine à gaz de type à réaction pure, les forces de rotation résultent directement...",
+    "options":[
+      "Réponse A<br>de l'action aérodynamique générée par les canaux divergents entre les ailettes du rotor.",
+      "Réponse B<br>de la diminution de la vitesse des gaz au niveau des canaux convergents entre les aubes du stator.",
+      "Réponse C<br>de l'action aérodynamique générée par les canaux convergents entre les ailettes du rotor.",
+      "Réponse D<br>de l'augmentation de la vitesse des gaz au niveau des canaux divergents entre les ailettes du rotor."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Les turbocompresseurs installés sur les moteurs à pistons en tant que système d'augmentation des performances, sont utilisés pour...",
+    "options":[
+      "Réponse A<br>compenser la diminution de la pression d'admission avec l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer.",
+      "Réponse B<br>augmenter la puissance délivrée par le moteur jusqu'à l’altitude critique, en comparaison de celle délivrée au niveau de la mer.",
+      "Réponse C<br>augmenter la puissance délivrée par le moteur avec l'augmentation de l'altitude, en comparaison de celle délivrée au niveau de la mer.",
+      "Réponse D<br>compenser la baisse de température au niveau de l'entrée d'air du moteur liée à l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"A propos du système de lubrification d'un moteur. quelles indications et/ou alarmes sont les plus importantes quant à son fonctionnement, et doivent être surveillées avec attention au cours de la procédure de démarrage?",
+    "options":[
+      "Réponse A<br>Les voyants d'alarme du détecteur de limaille du moteur.",
+      "Réponse B<br>Les voyants d'alarme de dérivation de filtre d'huile moteur.",
+      "Réponse C<br>L'indicateur de température et/ou le voyant d'alarme de basse température d'huile moteur.",
+      "Réponse D<br>L'indicateur de pression et/ou le voyant d'alarme de basse pression d'huile moteur."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Pour un avion moteur à pistons contrôlé par une régulation électronique à pleine autorité (FADEC) et équipé d'une hélice à calage variable, quelles sont les commandes moteur au poste de pilotage",
+    "options":[
+      "Réponse A<br>Une manette des gaz et une manette de richesse.",
+      "Réponse B<br>Une manette des gaz une manette de richesse et une manette d'hélice.",
+      "Réponse C<br>Une seule et unique manette.",
+      "Réponse D<br>Une manette de puissance et une manette d'hélice."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Dans un moteur à turbine à gaz, les aubages directeurs d'entrée à calage variable (Inlet Guide Vanes IGV)...",
+    "options":[
+      "Réponse A<br>diminuent la vitesse de l'air entrant dans la section de combustion.",
+      "Réponse B<br>augmentent la vitesse de l'air entrant dans le compresseur.",
+      "Réponse C<br>orientent l'écoulement à un angle optimal vers le premier étage du compresseur.",
+      "Réponse D<br>orientent l’écoulement à un angle optimal vers le diffuseur."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Que peut-il se produire pour un moteur à piston pendant une montée continue avec un réglage du mélange plein riche?",
+    "options":[
+      "Réponse A<br>Un encrassement des bougies d allumage.",
+      "Réponse B<br>Une augmentation de la puissance disponible.",
+      "Réponse C<br>Le moteur fonctionnera mieux au détriment d'une consommation de carburant accrue.",
+      "Réponse D<br>Le moteur chauffera de façon excessive."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Parmi ces propositions:<br>1. La boîte de transmission arrière contient les engrenages pour la rotation du rotor de queue.<br>2. Le mécanisme de contrôle de pas du rotor arrière est fixé sur la boîte de transmission arrière.",
+    "options":[
+      "Réponse A<br>1 est fausse, 2 est vraie.",
+      "Réponse B<br>1 et 2 sont fausses.",
+      "Réponse C<br>1 est vraie, 2 est fausse.",
+      "Réponse D<br>1 et 2 sont vraies."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Dans la plupart des aéronefs de transport, les glaces du poste de pilotage sont protégées contre le givrage par...",
+    "options":[
+      "Réponse A<br>un liquide anti-formation de glace.",
+      "Réponse B<br>un revêtement de vinyle.",
+      "Réponse C<br>un système avec liquide anti-mouillant.",
+      "Réponse D<br>un réchauffage électrique."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"La fonction des butées de commandes de vol est:",
+    "options":[
+      "Réponse A<br>de limiter le débattement des commandes de vol dans la plage appropriée.",
+      "Réponse B<br>d'éviter que le système ne soit endommagé lorsque l'appareil est stationné avec des conditions de vent fort.",
+      "Réponse C<br>d'agir comme une butée en cas de vibrations des commandes.",
+      "Réponse D<br>de placer le rotor principal et le rotor anti-couple en positions de repos dès que possible après l'arrêt moteur."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"A propos d'un système rotor principal bipale :<br>1 - Une tête rotor avec axe de bascule est généralement utilisée dans un système de rotor bipale.<br>2 - Un système rotor bipale avec un axe de bascule est identifié comme rotor rigide.<br>Parmi ces propositions:",
+    "options":[
+      "Réponse A<br>1 est fausse, 2 est vraie.",
+      "Réponse B<br>1 est vraie, 2 est fausse.",
+      "Réponse C<br>1 et 2 sont fausses.",
+      "Réponse D<br>1 et 2 sont vraies."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Si une batterie au lithium de forte puissance est exposée à des chocs mécaniques ou thermiques, cela peut provoquer...",
+    "options":[
+      "Réponse A<br>des tensions induites élevées, conduisant à des interférences radio.",
+      "Réponse B<br>des champs électriques importants, conduisant à des incidents liés à des arcs électriques.",
+      "Réponse C<br>des champs magnétiques importants, conduisant à des erreurs de compas.",
+      "Réponse D<br>des courants électriques importants. conduisant à un emballement thermique."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Le fait qu'un aéronef ne soit pas correctement 'métallisé' peut être mis en évidence par...",
+    "options":[
+      "Réponse A<br>des interférences avec le récepteur VOR.",
+      "Réponse B<br>une profonde corrosion au niveau de l’assemblage du revêtement du fuselage.",
+      "Réponse C<br>des parasites à la radio.",
+      "Réponse D<br>le déclenchement d’un disjoncteur."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"A fins de redondance, un système de régulation électronique à pleine autorité (FADEC) d'un moteur à pistons est équipé de...",
+    "options":[
+      "Réponse A<br>deux alimentations électriques et de deux canaux identiques séparés.",
+      "Réponse B<br>deux injecteurs et de deux bougies d allumage par cylindre.",
+      "Réponse C<br>deux moteurs de démarrage et de deux alternateurs.",
+      "Réponse D<br>deux magnétos à accouplement par impulsion et double capteurs."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Sur la plupart des hélicoptères. en vol normal, la (les) pompe(s) hydraulique(s) est(sont) entrainée(s) par...",
+    "options":[
+      "Réponse A<br>la boîte de transmission principale.",
+      "Réponse B<br>une source supplémentaire comme un groupe de puissance auxiliaire (APU).",
+      "Réponse C<br>le système électrique.",
+      "Réponse D<br>le(s) moteur(s)."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Laquelle de ces affirmations concernant un rotor arrière de type Fenestron ou veine d'air carénée est exacte?",
+    "options":[
+      "Réponse A<br>Les Fenestrons sont entraînés par de longs arbres sans boite intermédiaire. Le rotor se trouve alors plus proche du sol, ce qui diminue la sécurité des personnes à proximité.",
+      "Réponse B<br>La circulation d'air à travers le Fenestron est obstruée par la dérive verticale.",
+      "Réponse C<br>Le brut typique du Fenestron est diminué en positionnant les pales de façon asymétrique.",
+      "Réponse D<br>Afin d'obtenir le maximum d'efficacité, l'espace entre l'extrémité des pales et le carénage doit être d'approximativement 4 cm."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"La fonction principale d'un frein rotor est...",
+    "options":[
+      "Réponse A<br>de protéger les transmissions (principale et arrière) à grande vitesse de rotation.",
+      "Réponse B<br>de réduire le temps d'arrêt du rotor après la coupure moteur.",
+      "Réponse C<br>d'éviter une survitesse du rotor.",
+      "Réponse D<br>de démarrer le moteur sans entraîner la transmission."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Concernant le réchauffage des prises d'air statique et dynamique...",
+    "options":[
+      "Réponse A<br>le réchauffage des tubes pitot et des prises d'air statique sont activés automatiquement lorsque les conditions de givrage surviennent.",
+      "Réponse B<br>les tubes pitot et les prises d'air statique sont toujours pourvus d'un réchauffage.",
+      "Réponse C<br>les tubes pitot sont toujours pourvus d'un réchauffage alors que les prises d'air statique ne le sont pas toujours.",
+      "Réponse D<br>les tubes pitot munis de prises d'air statiques sont toujours pourvus de réchauffage alors que les prises d'air statique ne le sont jamais."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Pour cette question utilisez Tannexe ECQB-021-031-v2019-11)<br><img src=\"bypass.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\"><br>Sur la représentation en annexe, quels sont les composants indiqués par (1) et (2)?",
+    "options":[
+      "Réponse A<br>(1) filtre à huile et “by-pass”<br>(2) contacteur de température",
+      "Réponse B<br>(1) radiateur d'huile<br>(2) transmetteur de température",
+      "Réponse C<br>(1) radiateur d'huile et by-pass<br>(2) transmetteur de pression",
+      "Réponse D<br>(1) pompe de récupération<br>(2) contacteur de pression"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Quelle est la fonction des amortisseurs de traînée sur un rotor articulé?<br>Les amortisseurs de traînée...",
+    "options":[
+      "Réponse A<br>protègent la tête rotor des dommages causés par les fortes rafales de vent lorsque le rotor ne tourne pas.",
+      "Réponse B<br>amortissent les actions du pilote dans le système rotor pour empêcher les oscillations induites par le pilote (PIO).",
+      "Réponse C<br>empêchent les mouvement excessifs d'avancement et de recul des pales du rotor en vol.",
+      "Réponse D<br>contrent les mouvements de battement des pales du rotor en vol."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Une alerte hydraulique de basse pression est la première indication...",
+    "options":[
+      "Réponse A<br>du dégonflement de l’accumulateur de pression de la pompe.",
+      "Réponse B<br>d’un niveau du réservoir hydraulique a son niveau minimal acceptable.",
+      "Réponse C<br>d’une fuite sur le circuit retour du réservoir.",
+      "Réponse D<br>d’une pression de sortie de la pompe insuffisante."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"La plupart des pales de rotor de queue ont un bord d'attaque renforcé, parce que...",
+    "options":[
+      "Réponse A<br>leur vitesse de rotation est plus élevée que celles du rotor principal et qu'elles approchent la vitesse du son plus tôt. Les ondes de chocs peuvent endommager le bord d'attaque des pales.",
+      "Réponse B<br>par conception les pales de rotor de queue, plus petites, sont moins rigides que celles du rotor principal.",
+      "Réponse C<br>leur position à proximité du sol les rend vulnérables aux dommages causés par la poussière et les débris.",
+      "Réponse D<br>les pales pourraient ne pas être endommagées lors d'un contact avec le sol."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Lorsqu'une génératrice a une panne, sa bus est...",
+    "options":[
+      "Réponse A<br>transférée à une autre bus et la génératrice est déconnectée de son mécanisme d'entraînement.",
+      "Réponse B<br>transférée à une autre source et la génératrice est déconnectée de sa bus.",
+      "Réponse C<br>isolée mais les servitudes sont transférées à une autre source.",
+      "Réponse D<br>isolée et les servitudes ne sont plus alimentées."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Les conditions d'exploitation présentant le risque de corrosion le plus élevé correspondent à des vols...",
+    "options":[
+      "Réponse A<br>à basse altitude au-dessus d'une surface d’eau chaude et salée.",
+      "Réponse B<br>à haute altitude en conditions givrantes.",
+      "Réponse C<br>à haute altitude dans un nuage de cendres volcaniques.",
+      "Réponse D<br>à basse altitude au-dessus de déserts de sable chaud."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Une friction des commandes est généralement intégrée dans:",
+    "options":[
+      "Réponse A<br>les commandes de pas cyclique et de pas général et les frictions sont toutes deux réglables en vol.",
+      "Réponse B<br>la commande de pas cyclique uniquement.",
+      "Réponse C<br>les commandes de pas cyclique et de pas général mais seule celle du pas général est réglable en vol.",
+      "Réponse D<br>la commande de pas général uniquement."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Dans un moteur à turbine à gaz classique, le système de prélèvement d'air utilise de l'air en provenance...",
+    "options":[
+      "Réponse A<br>de la tuyère.",
+      "Réponse B<br>de l'entrée d'air.",
+      "Réponse C<br>de la turbine.",
+      "Réponse D<br>du compresseur."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Quelle est la proposition correcte?<br>1 - Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2 - Le point éclair du JET A est à une température à peu près équivalente à celui du JET",
+    "options":[
+      "Réponse A<br>1 est vraie, 2 est vraie.",
+      "Réponse B<br>1 est vraie, 2 est fausse.",
+      "Réponse C<br>1 est fausse, 2 est fausse.",
+      "Réponse D<br>1 est fausse, 2 est vraie."
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Quelle est la définition de la puissance électrique (P) et quelle est son unité de mesure dans le système International?<br>La puissance électrique est définie par...",
+    "options":[
+      "Réponse A<br>l'énergie électrique multipliée par le temps (t) (P = Energie x t). Elle est mesurée en Watts (W).",
+      "Réponse B<br>la tension électrique (U) divisée par l'intensité électrique (I) (P = U / I). Elle est mesurée en Watts (W).",
+      "Réponse C<br>l’intensité électrique (I) divisée par la tension électrique (U) (P = I / U). Elle est mesurée en Ampères (A).",
+      "Réponse D<br>l'énergie électrique divisée par le temps (I) (P = Energie / I). Elle est mesurée en Watts (W)."
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Parmi les propositions suivantes, lesquelles sont des exemples de sources pneumatiques pour le démarrage des turboréacteurs de grande taille?",
+    "options":[
+      "Réponse A<br>Un groupe démarreur pneumatique au sol ou une batterie.",
+      "Réponse B<br>Un groupe auxiliaire de puissance (APU) ou une batterie.",
+      "Réponse C<br>Un groupe auxiliaire de puissance (APU) ou une turbine à air dynamique (RAT).",
+      "Réponse D<br>Un groupe démarreur pneumatique au sol ou un autre moteur en fonctionnement sur le même aéronef."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Pour un moteur à turbines, quel est l'effet possible d'un dépassement de la température limite EGT lié à un débit carburant excessif?",
+    "options":[
+      "Réponse A<br>Des dommages structuraux ou une déformation de pièces métalliques au niveau de la turbine.",
+      "Réponse B<br>Le moteur continuera de fonctionner normalement dans le mesure ou l'excès de carburant est évacué via des drains au niveau de la chambre de combustion.",
+      "Réponse C<br>Une augmentation soudaine du régime N2 provoquant une survitesse moteur.",
+      "Réponse D<br>Un pompage au niveau du compresseur haute pression."
+    ],
+    "answer": 0
+  }
+  
+]
